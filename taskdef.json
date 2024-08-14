@@ -4,6 +4,7 @@
         {
             "name": "sample-website",
             "image": "<IMAGE1_NAME>",
+            "image": "nginx",
             "essential": true,
             "portMappings": [
                 {
